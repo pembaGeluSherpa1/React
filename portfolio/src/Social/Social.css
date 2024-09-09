@@ -1,0 +1,16 @@
+.social ul {
+    display: flex;
+    width: 300px;
+}
+
+.social ul li{
+    position: relative;
+    height: 30px;
+    background-color: rgb(211, 211, 211);
+    box-shadow: 3px 4px 11px 0px black;
+}
+
+.social ul li img{
+    width: 30px;
+    height: 30px;
+}

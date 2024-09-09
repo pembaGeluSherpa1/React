@@ -1,0 +1,14 @@
+.hero-img img {
+  height: 100%;
+  width: 55%;
+  margin-top: -100px;
+}
+.hero-img {
+  display: flex;
+  justify-content: end;
+}
+
+
+body {
+  background-color: rgb(224, 224, 224);
+}

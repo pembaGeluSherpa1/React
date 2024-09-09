@@ -1,0 +1,42 @@
+nav{
+    display: flex;
+    width: 100%;
+    position: relative;
+    background-color: black;
+}
+
+ul{
+    width: 100%;
+    display: flex;
+    list-style: none;
+    justify-content: end;
+    margin: 10px 20px 20px 20px;
+}
+
+li {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(231, 233, 234);
+}
+
+.contact {
+    padding: 10px;
+    border-radius: 15px;
+    color:black;
+    background-color: rgb(231, 233, 234);
+}
+
+img{
+    width:50px;
+    height:50px;
+}
+
+a{
+    color:rgb(167, 167, 167) ;
+    text-decoration: none;
+}
+
+.contact a{
+    color: black;
+}
