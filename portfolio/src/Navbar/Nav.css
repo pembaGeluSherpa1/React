@@ -2,7 +2,7 @@ nav{
     display: flex;
     width: 100%;
     position: relative;
-    background-color: black;
+    /* background-color: black; */
 }
 
 ul{
