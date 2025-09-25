@@ -9,8 +9,6 @@ export default function TodoApp() {
   ]);
   const [newTask, setNewTask] = useState();
 
-  // useEffect(() => {}, []);
-
   function addTask() {
     if (newTask.trim()) {
       setTasks((t) => [...t, newTask]);
